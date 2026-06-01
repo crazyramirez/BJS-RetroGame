@@ -8,6 +8,8 @@ An interactive 3D product viewer for a custom-built retro arcade cabinet, powere
 
 ## Demo
 
+![Retro Arcade Gaming](resources/images/retrogame.webp)
+
 > Open `index.html` in a local server (e.g. `npx serve .` or Live Server in VS Code).
 
 ---
