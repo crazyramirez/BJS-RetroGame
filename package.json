@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "babylonjs": "^9.10.1",
+    "babylonjs-gui": "^9.10.1",
+    "babylonjs-loaders": "^9.10.1",
+    "pepjs": "^0.5.3"
+  }
+}

@@ -1,0 +1,12 @@
+/node_modules
+/.nuxt
+/.output
+/.vite
+/dist
+.env
+.nitro
+.nuxt
+.output
+.vite
+node_modules
+dist
