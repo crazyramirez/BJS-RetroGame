@@ -12,6 +12,8 @@ An interactive 3D product viewer for a custom-built retro arcade cabinet, powere
 
 > Open `index.html` in a local server (e.g. `npx serve .` or Live Server in VS Code).
 
+**[► Live Demo](https://viseni.com/_demos_/retrogame/)**
+
 ---
 
 ## Features
