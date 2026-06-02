@@ -15,6 +15,10 @@ An interactive 3D product viewer for a custom-built retro arcade cabinet, powere
 <a href="https://viseni.com/_demos_/retrogame/" target="_blank" style="color: #FFC53F; font-weight: bold;"><b><span>&#10003;</span>
 Try the Live DEMO</b></a>
 
+> If this tool saves you time, consider supporting its development — every contribution funds more experiments and free tools for the community. ☕
+>
+> <a href="https://www.buymeacoffee.com/drlerian" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"></a>
+
 ---
 
 ## Features
